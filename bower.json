@@ -1,0 +1,19 @@
+{
+  "name": "bower RequireJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SwampGuzzler/RequireJS",
+  "authors": [
+    "Lucas Cotner <lc07@uw.edu>"
+  ],
+  "description": "RequireJS HW",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
